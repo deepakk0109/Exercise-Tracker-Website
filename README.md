@@ -2,8 +2,11 @@
 Exercise tracker website using MERN stack
 
 • Exercise tracker application, to empower users with seamless monitoring of fitness routines in everyday life
+
 • Built frontend and user-friendly interface through using ReactJS, Bootstrap classes and CSS to allow user to create exercise
+
 • Used MongoDB queries to display data saved in database, and ExpressJS to apply backend utilities like cors, nodemon, and dotenv
+
 • Developed create user and exercise system, applied the concept of routes, middlewares, controllers and axios to fetch backend data
 
 
